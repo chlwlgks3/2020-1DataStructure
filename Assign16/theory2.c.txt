@@ -1,0 +1,197 @@
+#include <stdio.h>
+
+#include <stdlib.h>
+
+#define _CRT_SECURE_NO_WARNINGS
+
+#pragma warning(disable:4996)
+
+#define MAX_STACK_SIZE 100
+
+ 
+
+typedef struct node* treePointer;
+
+typedef struct node {
+
+	int data;
+
+	treePointer left;
+
+	treePointer right;
+
+}node;
+
+ 
+
+treePointer stack[MAX_STACK_SIZE];
+
+int result[MAX_STACK_SIZE];
+
+int top = -1;
+
+int count = 0;
+
+ 
+
+void print(FILE* stream) {
+
+	if (top == -1)
+
+		fprintf(stream,"-1");
+
+	else
+
+		for (int i = 0; i <= top; i++) 
+
+			fprintf(stream,"%d ", stack[i]->data);
+
+	fprintf(stream,"\n");
+
+}
+
+ 
+
+void push(treePointer node,FILE* stream) {
+
+	if (top >= MAX_STACK_SIZE - 1) {
+
+		printf("stackFull\n");
+
+		return;
+
+	}
+
+	stack[++top]= node;
+
+	print(stream);
+
+}
+
+ 
+
+treePointer pop(FILE* stream) {
+
+	if (top == -1) {
+
+		fprintf(stream,"-1\n");
+
+		return NULL;
+
+	}
+
+	return stack[top--];
+
+} 
+
+ 
+
+void iterInorder(treePointer node,FILE* stream) {
+
+	int i = 1;
+
+	for (; ;) {
+
+		for (; node; node = node->left)
+
+			push(node,stream);
+
+		node = pop(stream);
+
+		if (!node) break;
+
+		print(stream);
+
+		if (node) {
+
+			result[i++] = node->data;
+
+			count++;
+
+		}
+
+		node = node->right;
+
+	}
+
+}
+
+ 
+
+int main(void) {
+
+	FILE* stream = fopen("input.txt", "r");
+
+	FILE* stream2 = fopen("output.txt", "w");
+
+	treePointer arr[128];
+
+	for (int i = 0; i < 128; i++) 
+
+		arr[i] = (treePointer)malloc(sizeof(node));
+
+	int n, data;
+
+	fscanf(stream, "%d", &n);
+
+	for (int i = 1; i <= n; i++) {
+
+		fscanf(stream, "%d", &data);
+
+		if (data == -1)
+
+			arr[i] = NULL;
+
+		else 
+
+			arr[i]->data = data;
+
+	}
+
+	for (int i = 1; i <= n; i++) {
+
+		if (arr[i] != NULL) {
+
+			if (2 * i <= n)
+
+				arr[i]->left = arr[2 * i];
+
+			else
+
+				arr[i]->left = NULL;
+
+			if (2 * i + 1 <= n)
+
+				arr[i]->right = arr[2 * i + 1];
+
+			else
+
+				arr[i]->right = NULL;
+
+		}
+
+	}
+
+	fprintf(stream2, "-stack-\n");
+
+	iterInorder(arr[1],stream2);
+
+	fprintf(stream2,"\n-inorder traversal-\n");
+
+	for (int i = 1; i <= count; i++)
+
+		fprintf(stream2,"%d ", result[i]);
+
+ 
+
+	fclose(stream);
+
+	fclose(stream2);
+
+	for (int i = 0; i < 128; i++)
+
+		free(arr[i]);
+
+	return 0;
+
+}
