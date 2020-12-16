@@ -17,6 +17,7 @@ void sorting(int arr[], int arrSize);을 사용하여 정수형 1차원 배열 a
 차례대로 입력받아 저장한 후, 오름차순으로 정렬하여 출력하는 프로그램(배열을 오름차순으로 정렬할 때 포인터를사용)
 -traing1.c  
 -traing2.c  
+![image](https://user-images.githubusercontent.com/64358334/102333488-d8eb9f80-3fd0-11eb-91e2-683e39bba4df.png)
 
 ### [Assign2](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS01)
 -theory1.c  
