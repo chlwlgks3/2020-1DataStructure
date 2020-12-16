@@ -6,8 +6,8 @@
 
 # index
 ### [Assign1](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS01)
--theory1.c
--theory2.c
--theory3.c
--traing1.c
--traing2.c
+-theory1.c  
+-theory2.c  
+-theory3.c  
+-traing1.c  
+-traing2.c  
