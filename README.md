@@ -5,8 +5,8 @@
 각 Assign 폴더의 theory.c는 자료구조의 과제코드이고 traning.c는 자료구조응용의 과제입니다.
 
 # index
-### [Assign1]()
--theory1.c  
+## [Assign1]()
+### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102333488-d8eb9f80-3fd0-11eb-91e2-683e39bba4df.png)
 
 
