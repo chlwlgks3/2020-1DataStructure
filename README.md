@@ -214,7 +214,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102337391-c031b880-3fd5-11eb-89a5-1ae49fcddfd1.png)  
 
 -theory2.c  
-![image](https://user-images.githubusercontent.com/64358334/102337422-caec4d80-3fd5-11eb-8fdd-e84c094b4d9c.png
+![image](https://user-images.githubusercontent.com/64358334/102337922-772e3400-3fd6-11eb-9dfd-f3cad9ea518f.png)
 
 ### [Assign26]  
 -theory1.c  
