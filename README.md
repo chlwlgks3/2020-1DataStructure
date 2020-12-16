@@ -7,17 +7,14 @@
 # index
 ### [Assign1](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS01)
 -theory1.c  
-임의의 수의 제곱승을 구하는 함수 square()와 세제곱승을 구하는 함수 cube()를 구현하여 임의의 수의 
-다섯제곱승 구하는 프로그램  
+![image](https://user-images.githubusercontent.com/64358334/102333488-d8eb9f80-3fd0-11eb-91e2-683e39bba4df.png)
 -theory2.c  
-정수 n을 입력받아 1 + 1! + 2! + 3! + ... + (n-1)! + n! 을 구하는 프로그램  
-long factsum(int n) 과 long fact(int n)를 이용  
+![image](https://user-images.githubusercontent.com/64358334/102333661-13553c80-3fd1-11eb-8ce0-5911a7b6777e.png)
 -theory3.c  
-void sorting(int arr[], int arrSize);을 사용하여 정수형 1차원 배열 arr[]에 임의의 정수 5개를  
-차례대로 입력받아 저장한 후, 오름차순으로 정렬하여 출력하는 프로그램(배열을 오름차순으로 정렬할 때 포인터를사용)
+
 -traing1.c  
 -traing2.c  
-![image](https://user-images.githubusercontent.com/64358334/102333488-d8eb9f80-3fd0-11eb-91e2-683e39bba4df.png)
+
 
 ### [Assign2](https://github.com/MinkiJo/2020_1_DataStructure/tree/main/DS01)
 -theory1.c  
