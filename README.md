@@ -5,7 +5,7 @@
 각 Assign 폴더의 theory.c는 자료구조의 과제코드이고 traning.c는 자료구조응용의 과제입니다.
 
 # index
-## [Assign1]()
+## [Assign1](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign1)
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102333488-d8eb9f80-3fd0-11eb-91e2-683e39bba4df.png)
 
@@ -29,7 +29,7 @@
 
 
 
-## [Assign2]()
+## [Assign2](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign2)
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102334281-d63d7a00-3fd1-11eb-8672-96b1f082b9f0.png)  
   
@@ -52,7 +52,7 @@
 ### -training3.c  
 ![image](https://user-images.githubusercontent.com/64358334/102364047-67741700-3ff9-11eb-8d5a-bb704e1a7053.png)
 
-## [Assign3]()
+## [Assign3](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign3)
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102334448-06851880-3fd2-11eb-8b3d-e955d1f873f0.png)  
   
@@ -72,7 +72,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102364331-a99d5880-3ff9-11eb-9ec8-8cb6b2e04888.png)
 
 
-## [Assign4]  
+## [Assign4](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign4) 
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102334637-41874c00-3fd2-11eb-9476-41f164900869.png)  
   
@@ -90,7 +90,7 @@
 
 
   
-## [Assign5]  
+## [Assign5](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign5)  
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102334803-73001780-3fd2-11eb-8720-c4e4e167fb3d.png)  
   
@@ -108,7 +108,7 @@
 
 
 
-## [Assign6]
+## [Assign6](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign6)  
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102334855-814e3380-3fd2-11eb-95c3-c8054d6856cb.png)  
 
@@ -122,7 +122,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102364763-27f9fa80-3ffa-11eb-86b2-2a7765775736.png)  
 
 
-## [Assign7]  
+## [Assign7](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign7)  
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102335028-b9557680-3fd2-11eb-93c6-4f67d7eb10ea.png)  
 
@@ -137,7 +137,7 @@
  
  
 
-## [Assign8]  
+## [Assign8](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign8)  
 ### -theory1.c
 ![image](https://user-images.githubusercontent.com/64358334/102335069-c8d4bf80-3fd2-11eb-9517-42af65e2cde2.png)  
 ![image](https://user-images.githubusercontent.com/64358334/102335297-0afe0100-3fd3-11eb-80ed-0732456f7165.png)  
@@ -156,7 +156,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102365002-727b7700-3ffa-11eb-9edd-7de1f18f6f05.png)
 
 
-## [Assign9]  
+## [Assign9](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign9)  
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102335417-37b21880-3fd3-11eb-9fd6-e1bf7c6c47e7.png)  
   
@@ -172,7 +172,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102365232-a9518d00-3ffa-11eb-8c4e-92ec6bf3f75c.png)  
 
 
-## [Assign10]  
+## [Assign10](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign10)  
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102335563-6def9800-3fd3-11eb-93ce-283f10bd944e.png)  
 
@@ -187,7 +187,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102365389-daca5880-3ffa-11eb-9c46-d21453de176a.png)  
 
 
-## [Assign11]  
+## [Assign11](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign11)    
 ### -theory1.c 
 ![image](https://user-images.githubusercontent.com/64358334/102335662-8d86c080-3fd3-11eb-8bd1-ad14f0249c9b.png)  
 
@@ -201,7 +201,7 @@
 ### -training2.c  
 ![image](https://user-images.githubusercontent.com/64358334/102365499-f6cdfa00-3ffa-11eb-8f9d-b8522c49bbe5.png)
 
-## [Assign12]  
+## [Assign12](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign12)  
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102335749-a8593500-3fd3-11eb-9c91-d112a75e61d4.png)  
 
@@ -213,7 +213,7 @@
 
 
 
-## [Assign13]  
+## [Assign13](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign13)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102335787-b5762400-3fd3-11eb-86ca-fdddebffac2d.png)  
 
@@ -228,7 +228,7 @@
 
 
 
-## [Assign14]  
+## [Assign14](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign14)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102335841-c45cd680-3fd3-11eb-95c8-a938d22fa9c0.png)  
 ![image](https://user-images.githubusercontent.com/64358334/102335910-db9bc400-3fd3-11eb-80d6-b855f32ea6ca.png)  
@@ -248,7 +248,7 @@
 
 
 
-## [Assign15]  
+## [Assign15](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign15)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102336067-07b74500-3fd4-11eb-9605-89ad43892c77.png)  
 ![image](https://user-images.githubusercontent.com/64358334/102336102-1271da00-3fd4-11eb-9e34-362117986d0a.png)  
@@ -268,7 +268,7 @@
 
 
 
-## [Assign16]  
+## [Assign16](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign16)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102336266-4ea53a80-3fd4-11eb-9ebe-680198508d0b.png)  
 ![image](https://user-images.githubusercontent.com/64358334/102336304-58c73900-3fd4-11eb-97f9-c40b6a2e7c54.png)  
@@ -283,7 +283,7 @@
 
 
 
-## [Assign17]  
+## [Assign17](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign17)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102336491-91ffa900-3fd4-11eb-81c0-225bc429ffec.png)  
 
@@ -295,7 +295,7 @@
 
 
 
-## [Assign18]  
+## [Assign18](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign18)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102336605-bbb8d000-3fd4-11eb-8fb0-93e29218f759.png)
 
@@ -306,7 +306,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102366342-e5392200-3ffb-11eb-9e68-7ca54bf98e83.png)
 
 
-## [Assign19]  
+## [Assign19](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign19)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102336661-d25f2700-3fd4-11eb-9b55-b45ab97c8d9b.png)
 
@@ -319,7 +319,7 @@
 
 
 
-## [Assign20]  
+## [Assign20](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign20)    
 ### -theory1.c 
 ![image](https://user-images.githubusercontent.com/64358334/102336757-f3277c80-3fd4-11eb-9b2b-294c0fa03822.png)
 
@@ -335,7 +335,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102366559-26313680-3ffc-11eb-81c4-c481d1a34354.png)  
 
 
-## [Assign21]  
+## [Assign21](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign21)   
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102336861-181bef80-3fd5-11eb-82b1-b40fae04eae5.png)  
 ![image](https://user-images.githubusercontent.com/64358334/102336917-28cc6580-3fd5-11eb-8dd9-4e5618d85312.png)
@@ -353,7 +353,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102366770-5d074c80-3ffc-11eb-8617-54293105fceb.png)  
 
 
-## [Assign22]  
+## [Assign22](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign22)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102337012-4d284200-3fd5-11eb-9da8-08e94318bba0.png)  
 ![image](https://user-images.githubusercontent.com/64358334/102337043-56191380-3fd5-11eb-88e7-6d1c28f0cca6.png)  
@@ -366,7 +366,7 @@
 
 
 
-## [Assign23]  
+## [Assign23](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign23)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102337212-8bbdfc80-3fd5-11eb-9396-f44925eb495a.png)  
 
@@ -378,7 +378,7 @@
 
 
 
-## [Assign24]  
+## [Assign24](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign24)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102337305-a7290780-3fd5-11eb-83e8-279efd9629ce.png)  
 
@@ -387,7 +387,7 @@
 
 
 
-## [Assign25]  
+## [Assign25](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign25)   
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102337391-c031b880-3fd5-11eb-89a5-1ae49fcddfd1.png)  
 
@@ -398,7 +398,7 @@
 ![image](https://user-images.githubusercontent.com/64358334/102366958-90e27200-3ffc-11eb-9b9f-fc34397f7de0.png)  
 
 
-## [Assign26]  
+## [Assign26](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign26)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102337532-eb1c0c80-3fd5-11eb-8287-4abca869c545.png)  
 ![image](https://user-images.githubusercontent.com/64358334/102337561-f66f3800-3fd5-11eb-8d1f-fde7738c3ef0.png)  
@@ -407,12 +407,12 @@
 ![image](https://user-images.githubusercontent.com/64358334/102367018-a2c41500-3ffc-11eb-8ebb-01c0dd4e612f.png)  
 
 
-## [Assign27]  
+## [Assign27](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign27)    
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102337594-0424bd80-3fd6-11eb-8b70-5254c1e20dfc.png)  
 ![image](https://user-images.githubusercontent.com/64358334/102337615-0b4bcb80-3fd6-11eb-89ee-8b9fd18649ab.png)
 
-## [Assign28]  
+## [Assign28](https://github.com/chlwlgks3/2020-1DataStructure/tree/main/Assign28)   
 ### -theory1.c  
 ![image](https://user-images.githubusercontent.com/64358334/102337697-29193080-3fd6-11eb-9cc5-073793069b85.png)
 
